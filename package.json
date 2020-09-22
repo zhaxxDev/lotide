@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@zhaxxdev/lotide",
   "version": "1.0.0",
   "description": "",
   "main": "assertArraysEqual.js",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/zhaxxDev/lotide.git"
   },
-  "author": "",
+  "author": "zhaxxdev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhaxxDev/lotide/issues"
