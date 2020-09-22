@@ -18,4 +18,6 @@ function countLetters(strArray){
     }
   } return results 
 };
-console.log(countLetters("holy moly this assignment was e, the quick brown fox jumps over the lazy dog"));
+// console.log(countLetters("holy moly this assignment was e, the quick brown fox jumps over the lazy dog"));
+
+module.exports = countLetters;

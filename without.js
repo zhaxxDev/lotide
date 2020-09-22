@@ -8,3 +8,5 @@ const without = function(array1, array2) {
   }
   return filteredArray;
 };
+
+module.exports = without;

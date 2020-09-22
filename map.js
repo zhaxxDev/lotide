@@ -5,6 +5,8 @@ const map = function(arg1, arg2){
   }
   return yee;
 }
-const words = ["ground", "control", "to", "major", "tom"];
-const results1 = map(words, word => word[0]);
-console.log(results1);
+// const words = ["ground", "control", "to", "major", "tom"];
+// const results1 = map(words, word => word[0]);
+// console.log(results1);
+
+module.exports = map;
